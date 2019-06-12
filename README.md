@@ -3,6 +3,6 @@ Member Names:
 -Chowdhury, Fareen (fxc150930)
 -Wahab, Midhat (maw160030)
 
-Branches
+Tags
 1. Project 1
 2. Project 2
